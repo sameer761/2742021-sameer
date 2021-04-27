@@ -1,1 +1,1 @@
-# bmi-calc-javascript-project
+# technical assesment
